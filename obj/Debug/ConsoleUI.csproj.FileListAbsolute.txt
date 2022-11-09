@@ -1,0 +1,7 @@
+C:\Users\Дональд\RiderProjects\Module02Lesson06\bin\Debug\ConsoleUI.exe
+C:\Users\Дональд\RiderProjects\Module02Lesson06\bin\Debug\ConsoleUI.pdb
+C:\Users\Дональд\RiderProjects\Module02Lesson06\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Дональд\RiderProjects\Module02Lesson06\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дональд\RiderProjects\Module02Lesson06\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Дональд\RiderProjects\Module02Lesson06\obj\Debug\ConsoleUI.exe
+C:\Users\Дональд\RiderProjects\Module02Lesson06\obj\Debug\ConsoleUI.pdb
